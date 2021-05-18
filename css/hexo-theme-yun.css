@@ -570,9 +570,6 @@ body::before {
   align-items: center;
   margin: 0.2rem;
 }
-#animate {
-  animation: iconAnimate 1.33s ease-in-out infinite;
-}
 .with-love {
   display: inline-block;
   margin: 5px 5px 0 5px;
@@ -1836,9 +1833,6 @@ body::before {
 }
 .site-author-avatar img:hover {
   box-shadow: 0 0 30px rgba(0,120,231,0.2);
-}
-.site-author-avatar img {
-  border-radius: 50%;
 }
 .site-author-name {
   margin-top: 0;
